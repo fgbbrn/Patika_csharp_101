@@ -1,6 +1,6 @@
-using System;
+tusing System;
 
-namespace Diziler_arrat_sinifi_methodlari
+namespace Metot_Tanimalama
 {
     class Program
     {
